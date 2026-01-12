@@ -1,11 +1,12 @@
-#How to run
-go mod init student-management.  // To create a module
+## How to run
+#### Create A Module
+go mod init student-management.  
 
 go: creating new go.mod: module student-management
 go: to add module requirements and sums:
         go mod tidy
 
-#Run
+#### Run
 
 go run .
 
