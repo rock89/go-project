@@ -1,0 +1,9 @@
+package main
+
+type Student struct {
+	ID     int
+	Name   string
+	Age    int
+	Course string
+	Marks  float64
+}
