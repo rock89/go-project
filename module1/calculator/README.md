@@ -1,4 +1,5 @@
-#How to run
+# How to run
+
 go run calculator.go
 
 ===== Calculator Menu =====
